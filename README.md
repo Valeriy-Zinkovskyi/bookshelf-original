@@ -2,7 +2,7 @@
 
 Original GoIT team learning project, preserved as the **before** version for comparison with a personal restoration.
 
-**[Before website](https://valeriy-zinkovskyi.github.io/team-my--project/index.html)** · **[After website](https://valeriy-zinkovskyi.github.io/bookshelf-improved/)**
+**[Before website](https://valeriy-zinkovskyi.github.io/bookshelf-original/index.html)** · **[After website](https://valeriy-zinkovskyi.github.io/bookshelf-improved/)**
 
 ## Before and after
 
